@@ -64,4 +64,15 @@ I'm an experienced **DevOps Engineer** with around **2 years** of expertise in c
 ---
 
 💬 Feel free to reach out for **DevOps, Cloud Engineering, or Infrastructure Automation** discussions!
+---
+
+## 📊 GitHub Stats
+![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinaykumar142&show_icons=true&theme=radical)
+
+## 📌 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinaykumar142&layout=compact&theme=radical)
+
+![Profile Views](https://komarev.com/ghpvc/?username=vinaykumar142&color=blue)
+
+💬 Feel free to reach out for **DevOps, Cloud Engineering, or Infrastructure Automation** discussions!
 
